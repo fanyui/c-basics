@@ -1,4 +1,5 @@
 //a program to carry out addition multiplicaciton division 
+//author harisu
 #include <iostream>//preprocessor directive
 using namespace std;
 int main(){
